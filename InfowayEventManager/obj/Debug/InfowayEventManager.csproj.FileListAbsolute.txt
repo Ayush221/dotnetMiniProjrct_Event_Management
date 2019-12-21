@@ -1,0 +1,75 @@
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\InfowayEventManager.dll.config
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\InfowayEventManager.dll
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\InfowayEventManager.pdb
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\csc.exe
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\csc.exe.config
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\csc.rsp
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\csi.exe
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\csi.rsp
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\System.AppContext.dll
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\System.Collections.Immutable.dll
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\System.IO.FileSystem.dll
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\System.Reflection.Metadata.dll
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\vbc.exe
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\vbc.exe.config
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\vbc.rsp
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\VBCSCompiler.exe
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\roslyn\VBCSCompiler.exe.config
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\obj\Debug\InfowayEventManager.csprojAssemblyReference.cache
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\obj\Debug\InfowayEventManager.csproj.CopyComplete
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\obj\Debug\InfowayEventManager.dll
+E:\Visual Studios\InfowayEventManager\InfowayEventManager\obj\Debug\InfowayEventManager.pdb
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\InfowayEventManager.dll.config
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\InfowayEventManager.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\InfowayEventManager.pdb
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\csc.exe
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\csc.exe.config
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\csc.rsp
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\csi.exe
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\csi.rsp
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\System.AppContext.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\vbc.exe
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\vbc.exe.config
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\vbc.rsp
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\obj\Debug\InfowayEventManager.csprojAssemblyReference.cache
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\obj\Debug\InfowayEventManager.csproj.CopyComplete
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\obj\Debug\InfowayEventManager.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\obj\Debug\InfowayEventManager.pdb
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\MySql.Data.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\Google.Protobuf.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\BouncyCastle.Crypto.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\Renci.SshNet.dll
+C:\Users\group011\Documents\.NET\InfowayEventManager\InfowayEventManager\bin\MySql.Data.xml

@@ -1,0 +1,148 @@
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+      <li data-target="#demo" data-slide-to="3"></li>
+      <li data-target="#demo" data-slide-to="4"></li>
+  </ul>
+
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="Images/img1.png" alt="Los Angeles">
+        <h1>Hello</h1>
+    </div>
+    <div class="carousel-item">
+      <img src="Images/img2.png" alt="Chicago">
+    </div>
+    <div class="carousel-item">
+      <img src="Images/img3.png" alt="New York">
+    </div>
+       <div class="carousel-item">
+      <img src="Images/img4.png" alt="New York">
+    </div>
+       <div class="carousel-item">
+      <img src="Images/img5.png" alt="New York">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+
+</div>
+
+
+
+
+*****************************************************************
+
+   
+        <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+
+        <div class="col-md-12">
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner" >
+                    <div class="item active">
+                        <img src="http://placehold.it/1200x500/3498db/2980b9" alt="First slide" >
+                        <div class="carousel-caption">
+                            <h3>
+                                First slide</h3>
+                            <p>
+                                Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="item">
+                        <img src="http://placehold.it/1200x500/9b59b6/8e44ad" alt="Second slide">
+                        <div class="carousel-caption">
+                            <h3>
+                                Second slide</h3>
+                            <p>
+                                Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="item">
+                        <img src="http://placehold.it/1200x500/34495e/2c3e50" alt="Third slide">
+                        <div class="carousel-caption">
+                            <h3>
+                                Third slide</h3>
+                            <p>
+                                Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span></a><a class="right carousel-control"
+                        href="#carousel-example-generic" data-slide="next"><span class="glyphicon glyphicon-chevron-right">
+                        </span></a>
+            </div>
+            
+            <div class="main-text hidden-xs">
+                <div class="col-md-12 text-center">
+                    <h1>
+                        Static Headline And Content</h1>
+                    <h3>
+                        Hello Aakash
+                      
+                       copied from - https://bootsnipp.com/snippets/featured/carousel-static-headline-caption
+                    </h3>
+ 
+
+                    <div class="col-xs-12 col-sm-6 col-md-4">
+					
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <img src="" >
+                                    <h4 class="card-title"</h4>
+                                    <p class="card-text">Author :</p>
+                         
+                                </div>
+                            </div>
+                   </div>
+
+                    <div class="col-xs-12 col-sm-6 col-md-4">
+					
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <img src="" >
+                                    <h4 class="card-title"</h4>
+                                    <p class="card-text">Author : </p>
+                         
+                                </div>
+                            </div>
+                   </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4">
+					
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <img src="" >
+                                    <h4 class="card-title"></h4>
+                                    <p class="card-text">Author : </p>
+                         
+                                </div>
+                            </div>
+                  
+            </div>
+        </div>
+  
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
