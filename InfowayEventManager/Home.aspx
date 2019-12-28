@@ -6,7 +6,7 @@
         {
             position: absolute;
             
-            top: 50px;
+            top: 60px;
             width: 96.66666666666666%;
             color: #FFF;
         }
