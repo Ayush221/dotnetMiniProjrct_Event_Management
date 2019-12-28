@@ -21,7 +21,7 @@ namespace InfowayEventManager.Employee
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl eid;
+        protected global::System.Web.UI.WebControls.TextBox eid;
 
         /// <summary>
         /// ename control.
@@ -30,7 +30,7 @@ namespace InfowayEventManager.Employee
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText ename;
+        protected global::System.Web.UI.WebControls.TextBox ename;
 
         /// <summary>
         /// deptid control.
@@ -39,7 +39,7 @@ namespace InfowayEventManager.Employee
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl deptid;
+        protected global::System.Web.UI.WebControls.TextBox deptid;
 
         /// <summary>
         /// ecity control.
@@ -48,7 +48,7 @@ namespace InfowayEventManager.Employee
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText ecity;
+        protected global::System.Web.UI.WebControls.TextBox ecity;
 
         /// <summary>
         /// email control.
@@ -57,7 +57,7 @@ namespace InfowayEventManager.Employee
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl email;
+        protected global::System.Web.UI.WebControls.TextBox email;
 
         /// <summary>
         /// phno control.
@@ -66,7 +66,7 @@ namespace InfowayEventManager.Employee
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl phno;
+        protected global::System.Web.UI.WebControls.TextBox phno;
 
         /// <summary>
         /// dob control.
@@ -75,7 +75,7 @@ namespace InfowayEventManager.Employee
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl dob;
+        protected global::System.Web.UI.WebControls.TextBox dob;
 
         /// <summary>
         /// doj control.
@@ -84,7 +84,7 @@ namespace InfowayEventManager.Employee
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl doj;
+        protected global::System.Web.UI.WebControls.TextBox doj;
 
         /// <summary>
         /// rollid control.
@@ -93,6 +93,33 @@ namespace InfowayEventManager.Employee
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputGenericControl rollid;
+        protected global::System.Web.UI.WebControls.TextBox rollid;
+
+        /// <summary>
+        /// rolename control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox rolename;
+
+        /// <summary>
+        /// pwd control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox pwd;
+
+        /// <summary>
+        /// btnSubmit control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnSubmit;
     }
 }

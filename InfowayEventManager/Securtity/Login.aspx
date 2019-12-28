@@ -118,20 +118,20 @@ margin-left: 4px;
 							<span class="input-group-text"><i class="fas fa-user"></i></span>
 						</div>
 						
-						<asp:TextBox ID="username" runat="server" Height="38px" Width="390px">username</asp:TextBox>
+						<asp:TextBox ID="username" placeholder="emailId" runat="server" Height="38px" Width="390px"></asp:TextBox>
 					</div>
 					<div class="input-group form-group">
 						<div class="input-group-prepend">
 							<span class="input-group-text"><i class="fas fa-key"></i></span>
 						</div>
 						
-						<asp:TextBox ID="password" TextMode="Password" runat="server" Height="38px" Width="390px" >password</asp:TextBox>
+						<asp:TextBox ID="password" placeholder="password" TextMode="Password" runat="server" Height="38px" Width="390px" >password</asp:TextBox>
 					</div>
 					<div class="row align-items-center remember">
 						<input type="checkbox">Remember Me
 					</div>
 					<div class="form-group">
-						<asp:Button ID="btnLogin" runat="server" Text="Button"  CssClass="btn float-right login_btn" OnClick="btnLogin_Click"/>
+						<asp:Button ID="btnLogin" runat="server" Text="Submit"  CssClass="btn float-right login_btn" OnClick="btnLogin_Click"/>
 					</div>
 				</form>
 			</div>

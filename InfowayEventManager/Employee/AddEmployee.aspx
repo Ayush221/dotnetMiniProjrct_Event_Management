@@ -8,42 +8,61 @@
    
   <div class="form-group">
     <label for="eid">Employee Id:</label>
-    <input type="number" class="form-control" id="eid" runat="server">
+      <asp:TextBox ID="eid" TextMode="Number" runat="server"></asp:TextBox>
+<%--<input type="number" class="form-control" id="eid" runat="server">--%>
   </div>
   <div class="form-group">
     <label for="ename">Employee Name:</label>
-    <input type="text" class="form-control" id="ename" runat="server">
+     <asp:TextBox ID="ename" runat="server"></asp:TextBox>
   </div>
     <div class="form-group">
     <label for="deptid">Department id:</label>
-    <input type="number" class="form-control" id="deptid" runat="server">
+  
+        <asp:TextBox ID="deptid" TextMode="Number" runat="server"></asp:TextBox>
   </div>
    <div class="form-group">
     <label for="city">City:</label>
-    <input type="text" class="form-control" id="ecity" runat="server">
+    
+       <asp:TextBox ID="ecity" runat="server"></asp:TextBox>
   </div>
    <div class="form-group">
     <label for="email">Email id:</label>
-    <input type="email" class="form-control" id="email" runat="server">
+       <asp:TextBox ID="email"  TextMode="Email" runat="server"></asp:TextBox>
+   
   </div>
      <div class="form-group">
     <label for="phno">Phone no:</label>
-    <input type="number" class="form-control" id="phno" runat="server">
+          <asp:TextBox ID="phno" TextMode="Number" runat="server"></asp:TextBox>
+
   </div>
   <div class="form-group">
     <label for="dob">Date of Birth:</label>
-    <input type="date" class="form-control" id="dob" runat="server">
+      <asp:TextBox ID="dob" TextMode="Datetime" runat="server"></asp:TextBox>
+   
   </div>
     <div class="form-group">
     <label for="doj">Date of Joining:</label>
-    <input type="date" class="form-control" id="doj" runat="server">
+         <asp:TextBox ID="doj" TextMode="Datetime" runat="server"></asp:TextBox>
+    
   </div>
-     <div class="form-group">
+    
+        <div class="form-group">
     <label for="rollid">Roll id:</label>
-    <input type="number" class="form-control" id="rollid" runat="server">
+    
+      <asp:TextBox ID="rollid" TextMode="Number" runat="server"></asp:TextBox>    
   </div>
- 
-  <button type="submit" class="btn btn-default">Submit</button>
-     </div>
+
+  <label for="rollname">Roll Name:</label>
+      <asp:TextBox ID="rolename"  runat="server"></asp:TextBox>    
+  </div>
+       
+     <div class="form-group">
+    <label for="pwd">Password:</label>
+    
+      <asp:TextBox ID="pwd"  runat="server"></asp:TextBox>    
+  </div>
+ <div>
+        <asp:Button ID="btnSubmit" runat="server" Text="Submit" OnClick="btnSubmit_Click" />
+ </div>
     <br /><br /><br />
 </asp:Content>

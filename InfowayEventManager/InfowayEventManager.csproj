@@ -302,6 +302,7 @@
     <Compile Include="Employee\AddEmployee.aspx.designer.cs">
       <DependentUpon>AddEmployee.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Employee\EmployeeBean.cs" />
     <Compile Include="Employee\EmployeeDetails.aspx.cs">
       <DependentUpon>EmployeeDetails.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
